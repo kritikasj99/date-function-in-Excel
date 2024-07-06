@@ -1,2 +1,2 @@
 # date-function-in-Excel
-now,today,text,datedif,eomonth,
+now,today,text,datedif,eomonth,datevalue.
